@@ -1,0 +1,25 @@
+.color-red{
+    color: yellowgreen;
+}
+.color-purple{
+    color: purple;
+}
+
+.box{
+    text-align: center;
+}
+
+.space{
+    padding: 10px;
+}
+
+.center{
+    padding-top: 25px;
+    width: 150px;
+
+}
+
+.licenter{
+    display: block;
+    float: none;
+}
